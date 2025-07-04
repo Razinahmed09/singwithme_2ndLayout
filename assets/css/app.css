@@ -2693,9 +2693,13 @@ Elements
       background: linear-gradient(135deg, rgb(56 15 116), rgb(171 78 78), rgb(145 13 54)) !important;
 }
 
+.about-sec {
+      background: linear-gradient(168deg, #57198f -2.51%, #600751 100.35%100.35%) !important;
+}
 
-
-
+.about-sec .unique_btn .hero_btn {
+  background: linear-gradient(168deg, #4884d1 -2.6%, #565656 96.25%) !important;
+}
 
 .inner-banner {
   background: url("../media/bg/inner-banner-1.png") no-repeat;
